@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/0xbitx/DEDSEC_GITHUB_USERDATA/blob/master/banner.png", width="600", height="600">
+<img src="https://github.com/0xbitx/DEDSEC_GITHUB_USERDATA/blob/main/banner.png", width="600", height="600">
 </p>
 <h1 align="center"> DEDSEC_GITHUB_USERDATA</h1>
 <h4 align="center"> DEDSEC_GITHUB_USERDATA is a python tool that can grab github user information.</h4>
