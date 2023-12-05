@@ -8,8 +8,8 @@
 ### INSTALLATION [KALI - PARROT - TERMUX]
 * git clone https://github.com/0xbitx/DEDSEC_GITHUB_USERDATA.git
 * cd DEDSEC_GITHUB_USERDATA
-* pip3 install pystyle tabulate pycryptodome
-* python3 dedsec_github_userdata.py
+* pip3 install pystyle tabulate
+* ./dedsec_github_userdata
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
