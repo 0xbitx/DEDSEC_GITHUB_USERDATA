@@ -5,21 +5,17 @@
 <h1 align="center"> DEDSEC_GITHUB_USERDATA</h1>
 <h4 align="center"> DEDSEC_GITHUB_USERDATA is a python tool that can grab github user information.</h4>
 
-### INSTALLATION [KALI - PARROT - TERMUX]
+### INSTALLATION [KALI - PARROT]
 * git clone https://github.com/0xbitx/DEDSEC_GITHUB_USERDATA.git
 * cd DEDSEC_GITHUB_USERDATA
-* pip3 install pystyle
+* sudo pip3 install tabulate
 * chmod +x dedsec_github_userdata
-* ./dedsec_github_userdata
+* sudo ./dedsec_github_userdata
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
 * Parrot OS 
 * Ubuntu
-* Termux App
-
-### LANGUAGE 
-* Python
 
 
 ## Support
