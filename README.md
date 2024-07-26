@@ -3,7 +3,7 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpluspng.com%2Fimg-png%2Fgithub-octocat-png-github-inspectocat-896.png&f=1&nofb=1&ipt=5f52119396a8fa5cbc56c38ce5bfd050faab270372b59164efe96e4188973a2a&ipo=images", width="300", height="300">
 </p>
 <h1 align="center"> DEDSEC_GITHUB_USERDATA</h1>
-<h4 align="center"> DEDSEC_GITHUB_USERDATA is a linux based tool that can get user information.</h4>
+<h4 align="center"> DEDSEC_GITHUB_USERDATA is a Linux-based tool that can gather user information.</h4>
 
 ### DESCRIPTION
 DEDSEC_GITHUB_USERDATA is a Linux-based tool designed to retrieve comprehensive information about GitHub users. This tool is particularly useful for developers, researchers, and security professionals who need detailed data on GitHub profiles. The tool can gather a wide range of user information, including:
